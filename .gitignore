@@ -34,3 +34,4 @@ build/
 
 *.p12
 keystore.p12
+.DS_Store
